@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="skull.png">
+<SubTexture name="skull idle10000" x="1906" y="0" width="636" height="637" frameX="0" frameY="0" frameWidth="636" frameHeight="637" />
+<SubTexture name="skull idle20000" x="634" y="0" width="635" height="642" frameX="0" frameY="0" frameWidth="635" frameHeight="642" />
+<SubTexture name="skull idle30000" x="634" y="643" width="633" height="639" frameX="0" frameY="0" frameWidth="633" frameHeight="639" />
+<SubTexture name="skull idle40000" x="1269" y="0" width="637" height="641" frameX="0" frameY="0" frameWidth="637" frameHeight="641" />
+<SubTexture name="skull idle50000" x="0" y="643" width="634" height="640" frameX="0" frameY="0" frameWidth="634" frameHeight="640" />
+<SubTexture name="skull idle60000" x="1906" y="637" width="633" height="637" frameX="0" frameY="0" frameWidth="633" frameHeight="637" />
+<SubTexture name="skull idle70000" x="1267" y="643" width="634" height="639" frameX="0" frameY="0" frameWidth="634" frameHeight="639" />
+<SubTexture name="skull idle80000" x="0" y="0" width="634" height="643" frameX="0" frameY="0" frameWidth="634" frameHeight="643" />
+</TextureAtlas>

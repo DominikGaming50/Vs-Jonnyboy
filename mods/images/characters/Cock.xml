@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cock.png">
+<SubTexture name="Cock idle10000" x="398" y="320" width="199" height="220" frameX="0" frameY="0" frameWidth="199" frameHeight="220" />
+<SubTexture name="Cock idle20000" x="597" y="320" width="199" height="191" frameX="0" frameY="0" frameWidth="199" frameHeight="191" />
+<SubTexture name="Cock idle30000" x="319" y="783" width="199" height="160" frameX="0" frameY="0" frameWidth="199" frameHeight="160" />
+<SubTexture name="Cock idle40000" x="796" y="660" width="199" height="121" frameX="0" frameY="0" frameWidth="199" frameHeight="121" />
+<SubTexture name="Cock idle50000" x="319" y="783" width="199" height="160" frameX="0" frameY="0" frameWidth="199" frameHeight="160" />
+<SubTexture name="Cock idle60000" x="597" y="320" width="199" height="191" frameX="0" frameY="0" frameWidth="199" frameHeight="191" />
+<SubTexture name="Cock down10000" x="0" y="320" width="199" height="243" frameX="0" frameY="0" frameWidth="199" frameHeight="243" />
+<SubTexture name="Cock down20000" x="398" y="0" width="199" height="278" frameX="0" frameY="0" frameWidth="199" frameHeight="278" />
+<SubTexture name="Cock down30000" x="0" y="0" width="199" height="320" frameX="0" frameY="0" frameWidth="199" frameHeight="320" />
+<SubTexture name="Cock left10000" x="0" y="563" width="319" height="220" frameX="0" frameY="0" frameWidth="319" frameHeight="220" />
+<SubTexture name="Cock left20000" x="319" y="563" width="319" height="220" frameX="0" frameY="0" frameWidth="319" frameHeight="220" />
+<SubTexture name="Cock left30000" x="796" y="0" width="319" height="220" frameX="0" frameY="0" frameWidth="319" frameHeight="220" />
+<SubTexture name="Cock right10000" x="796" y="220" width="319" height="220" frameX="0" frameY="0" frameWidth="319" frameHeight="220" />
+<SubTexture name="Cock right20000" x="796" y="440" width="319" height="220" frameX="0" frameY="0" frameWidth="319" frameHeight="220" />
+<SubTexture name="Cock right30000" x="0" y="783" width="319" height="220" frameX="0" frameY="0" frameWidth="319" frameHeight="220" />
+<SubTexture name="Cock up10000" x="199" y="320" width="199" height="243" frameX="0" frameY="0" frameWidth="199" frameHeight="243" />
+<SubTexture name="Cock up20000" x="597" y="0" width="199" height="278" frameX="0" frameY="0" frameWidth="199" frameHeight="278" />
+<SubTexture name="Cock up30000" x="199" y="0" width="199" height="320" frameX="0" frameY="0" frameWidth="199" frameHeight="320" />
+</TextureAtlas>

@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "jonny",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HOW DO PEOPLE KEEP GETTING IN MY HOUSE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "montti",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "idk"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "jonny",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WELL GET OUT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "montti",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nahhhhh"
+		}
+	]
+}

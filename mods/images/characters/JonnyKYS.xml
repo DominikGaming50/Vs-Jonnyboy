@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="JonnyKYS.png">
+<SubTexture name="JonnyKYS idle0000" x="0" y="1228" width="668" height="820" frameX="0" frameY="0" frameWidth="668" frameHeight="820" />
+<SubTexture name="JonnyKYS idle10000" x="668" y="1228" width="668" height="820" frameX="0" frameY="0" frameWidth="668" frameHeight="820" />
+<SubTexture name="JonnyKYS idle20000" x="1336" y="1228" width="668" height="820" frameX="0" frameY="0" frameWidth="668" frameHeight="820" />
+<SubTexture name="JonnyKYS idle30000" x="2640" y="0" width="668" height="820" frameX="0" frameY="0" frameWidth="668" frameHeight="820" />
+<SubTexture name="JonnyKYS idle40000" x="2640" y="820" width="668" height="820" frameX="0" frameY="0" frameWidth="668" frameHeight="820" />
+<SubTexture name="JonnyKYS idle60000" x="0" y="2048" width="668" height="820" frameX="0" frameY="0" frameWidth="668" frameHeight="820" />
+<SubTexture name="JonnyKYS down0000" x="0" y="0" width="660" height="1228" frameX="0" frameY="0" frameWidth="660" frameHeight="1228" />
+<SubTexture name="JonnyKYS down10000" x="1320" y="0" width="660" height="1072" frameX="0" frameY="0" frameWidth="660" frameHeight="1072" />
+<SubTexture name="JonnyKYS left0000" x="668" y="2048" width="1320" height="662" frameX="0" frameY="0" frameWidth="1320" frameHeight="662" />
+<SubTexture name="JonnyKYS left10000" x="1988" y="2048" width="1320" height="662" frameX="0" frameY="0" frameWidth="1320" frameHeight="662" />
+<SubTexture name="JonnyKYS right0000" x="3308" y="0" width="1320" height="662" frameX="0" frameY="0" frameWidth="1320" frameHeight="662" />
+<SubTexture name="JonnyKYS right10000" x="3308" y="662" width="1320" height="662" frameX="0" frameY="0" frameWidth="1320" frameHeight="662" />
+<SubTexture name="JonnyKYS up0000" x="660" y="0" width="660" height="1228" frameX="0" frameY="0" frameWidth="660" frameHeight="1228" />
+<SubTexture name="JonnyKYS up10000" x="1980" y="0" width="660" height="1072" frameX="0" frameY="0" frameWidth="660" frameHeight="1072" />
+</TextureAtlas>

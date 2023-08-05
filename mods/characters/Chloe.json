@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				120,
+				160
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "idle",
+			"loop": false,
+			"name": "Chloe idle"
+		},
+		{
+			"offsets": [
+				339,
+				195
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Chloe left"
+		},
+		{
+			"offsets": [
+				80,
+				20
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Chloe down"
+		},
+		{
+			"offsets": [
+				95,
+				190
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Chloe up"
+		},
+		{
+			"offsets": [
+				20,
+				197
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Chloe right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Chloe",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "chloe",
+	"flip_x": false,
+	"healthbar_colors": [
+		192,
+		153,
+		96
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

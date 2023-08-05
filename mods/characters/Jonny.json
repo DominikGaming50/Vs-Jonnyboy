@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Jonny idle"
+		},
+		{
+			"offsets": [
+				505,
+				125
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Jonny left"
+		},
+		{
+			"offsets": [
+				78,
+				79
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Jonny down"
+		},
+		{
+			"offsets": [
+				77,
+				520
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Jonny up"
+		},
+		{
+			"offsets": [
+				20,
+				125
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Jonny right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jonny",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "Jonny",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

@@ -1,0 +1,48 @@
+{
+	"storyName": "Extra shit",
+	"hideFreeplay": false,
+	"weekBackground": "jonny",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"songs": [
+		[
+			"Pussy-Cat",
+			"Montti",
+			[
+				120,
+				60,
+				0
+			]
+		],
+		[
+			"Chicken-Shit",
+			"cock",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Puppy-Dawg",
+			"chloe",
+			[
+				100,
+				60,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week2"
+}

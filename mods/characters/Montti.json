@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Montti idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Montti left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-180
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Montti down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Montti up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Montti right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Montti",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "Montti",
+	"flip_x": false,
+	"healthbar_colors": [
+		185,
+		122,
+		87
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,48 @@
+{
+	"storyName": "why u go in his house",
+	"hideFreeplay": false,
+	"weekBackground": "jonny",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"songs": [
+		[
+			"Hol-Up",
+			"jonny",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Fuck-You",
+			"jonnymad",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Kill-Yourself",
+			"kys",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week1"
+}

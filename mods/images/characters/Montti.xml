@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Montti.png">
+<SubTexture name="Montti idle0000" x="607" y="0" width="330" height="483" frameX="-3" frameY="-3" frameWidth="335" frameHeight="487" />
+<SubTexture name="Montti down0000" x="0" y="578" width="276" height="306" frameX="0" frameY="0" frameWidth="276" frameHeight="306" />
+<SubTexture name="Montti left0000" x="937" y="0" width="352" height="465" frameX="0" frameY="0" frameWidth="352" frameHeight="465" />
+<SubTexture name="Montti right0000" x="280" y="0" width="327" height="530" frameX="0" frameY="-2" frameWidth="328" frameHeight="532" />
+<SubTexture name="Montti up0000" x="0" y="0" width="280" height="578" frameX="-1" frameY="-1" frameWidth="282" frameHeight="579" />
+</TextureAtlas>

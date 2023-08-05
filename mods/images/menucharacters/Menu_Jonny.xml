@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Jonny.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M jonny Idle0001" x="4" y="4" width="205" height="217" pivotX="0.05" pivotY="6.25" frameX="0" frameY="-6" frameWidth="213" frameHeight="224"/>
+	<SubTexture name="M jonny Idle0001" x="4" y="4" width="205" height="217" frameX="0" frameY="-6" frameWidth="213" frameHeight="224"/>
+	<SubTexture name="M jonny Idle0001" x="209" y="4" width="208" height="220" frameX="0" frameY="-3" frameWidth="213" frameHeight="224"/>
+	<SubTexture name="M jonny Idle0001" x="209" y="4" width="208" height="220" frameX="0" frameY="-3" frameWidth="213" frameHeight="224"/>
+	<SubTexture name="M jonny Idle0001" x="417" y="4" width="212" height="221" frameX="-1" frameY="-3" frameWidth="213" frameHeight="224"/>
+	<SubTexture name="M jonny Idle0001" x="629" y="4" width="210" height="221" frameX="-3" frameY="-3" frameWidth="213" frameHeight="224"/>
+	<SubTexture name="M jonny Idle0001" x="4" y="225" width="210" height="223" frameX="-3" frameY="-1" frameWidth="213" frameHeight="224"/>
+	<SubTexture name="M jonny Idle0001" x="214" y="225" width="209" height="223" frameX="-4" frameY="-1" frameWidth="213" frameHeight="224"/>
+	<SubTexture name="M jonny Idle0001" x="423" y="225" width="209" height="224" frameX="-4" frameY="0" frameWidth="213" frameHeight="224"/>
+	<SubTexture name="M jonny Idle0001" x="423" y="225" width="209" height="224" frameX="-4" frameY="0" frameWidth="213" frameHeight="224"/>
+	<SubTexture name="M jonny Idle0001" x="423" y="225" width="209" height="224" frameX="-4" frameY="0" frameWidth="213" frameHeight="224"/>
+	<SubTexture name="M jonny Idle0001" x="423" y="225" width="209" height="224" frameX="-4" frameY="0" frameWidth="213" frameHeight="224"/>
+	<SubTexture name="M jonny Idle0001" x="423" y="225" width="209" height="224" frameX="-4" frameY="0" frameWidth="213" frameHeight="224"/>
+	<SubTexture name="M jonny Idle0001" x="423" y="225" width="209" height="224" frameX="-4" frameY="0" frameWidth="213" frameHeight="224"/>
+</TextureAtlas>

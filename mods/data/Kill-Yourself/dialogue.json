@@ -1,0 +1,11 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.01,
+			"portrait": "jonnykys",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "FUCKING KILL YOURSELF"
+		}
+	]
+}

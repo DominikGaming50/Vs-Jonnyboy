@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-130,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Cock idle"
+		},
+		{
+			"offsets": [
+				181,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Cock left"
+		},
+		{
+			"offsets": [
+				-130,
+				-220
+			],
+			"indices": [],
+			"fps": 26,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "Cock down"
+		},
+		{
+			"offsets": [
+				-130,
+				80
+			],
+			"indices": [],
+			"fps": 26,
+			"anim": "singUP",
+			"loop": true,
+			"name": "Cock up"
+		},
+		{
+			"offsets": [
+				-180,
+				-93
+			],
+			"indices": [],
+			"fps": 26,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "Cock right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cock",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "Cock",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
